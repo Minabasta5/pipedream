@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Bakery</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alegreya&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">contact us</a></li>
+            <li><a href="#">products</a></li>
+            <li><a href="#">gallary</a></li>
+            <li><a href="https://www.google.it/" target="_blank">google</a></li>
+        </ul>
+    </nav>
+    <div class="header">
+        <div class="content">
+            <p>welcome to</p>
+        <h1>Family Bakery</h1>
+        <p>We're the biggest, best equipped and most advanced Bakery in the greater<br> Los Angeles area. </p>
+        <button   class="btn btn1" type="button">Learn more</button>
+        <button class="btn btn2" type="button">contact us</button>
+        </div>
+    </div>
+    <div class="section">
+        <img src="pic/alexandru-stavrica-170390-800x760.jpg" alt="alexandry-stacrixce">
+        <h2>who we are?</h2>
+        <div class="clear"></div>
+        <p class="first">We have been operating for over 30 years and are Members of The Federation of Master <br>Builders.
+             We work on projects big and small from small residential extensions to full house.<br> 
+             We are so happy with this theme. Everyday it make our lives better.</p>
+             <div class="clear"></div>
+             <div class="second">
+                <ul>
+                <li>We care about environment.</li> 
+                <li>We are trusted by hundreds of clients.</li> 
+                <li> Social media loves us!</li> 
+                <li>This list is super easy to create.</li> 
+                </ul>
+             </div>
+    </div>
+    <section class="sec">
+        <img class="pic " src="pic/full-2-800x640.jpg" alt="full-2">
+        <h2>Our Location</h2>
+        <p>We have been operating for over 30 years and are Members of The Federation <br>
+            
+            of Master Builders. We work on projects big and small from small residential extensions <br>
+            to full house. We are so happy with this theme. Everyday it make our lives better.
+
+            Story on projects <br>big and small from small residential extensions to full house. <br>
+            We are so happy with this theme. Everyday it make our lives better.</p>
+    </section>
+</body>
+</html>
